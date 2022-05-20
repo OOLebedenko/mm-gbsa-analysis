@@ -1,4 +1,5 @@
-SCRIPT_DIR:=mm-gbsa-analysis/mm_gbsa
+# specify path to script dir
+SCRIPT_DIR:=path_to_script_dir/mm-gbsa-analysis/mm_gbsa
 
 # specify path to MMGBSA info
 PATH_TO_MMGBSA_INFO="_MMPBSA_info"
